@@ -1,0 +1,7 @@
+twitter.com##main [data-testid=cellInnerDiv]:has-text(拜登)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(外交部)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(粉红)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(反贼)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(反賊)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(严厉谴责)
+twitter.com##main [data-testid=cellInnerDiv]:has-text(佩洛西)
